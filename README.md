@@ -77,5 +77,6 @@ python -m python_coreml_stable_diffusion.pipeline --model-version stabilityai/st
 ```
 
 * Result
+  ![WechatIMG46](https://user-images.githubusercontent.com/9177953/227825459-8d8f3b78-bde2-450f-985f-6864a387347f.png)
+
   
-  ![](/Users/david/Library/Application%20Support/marktext/images/2023-03-27-10-04-38-image.png)
